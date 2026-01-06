@@ -1,4 +1,4 @@
-# Czech Core Metadata Model specification
+# Czech Core Metadata Model specification - version 1.0.1
 
 This repository contains the specification of the Czech Core Metadata Model for research data description modelled in and generated from DataSpecer.
 Changes are described in [RELEASE_NOTES](RELEASE_NOTES.md).

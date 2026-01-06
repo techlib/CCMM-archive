@@ -11,11 +11,11 @@ The CCMM model is licensed under [CC BY](https://creativecommons.org/licenses/by
 
 ## cs
 
-Directory /cs contains Czech version of CCMM Application Profile specification. Specification is available on [https://techlib.github.io/CCMM/cs/](https://techlib.github.io/CCMM/cs/).
+Directory /cs contains Czech version of CCMM Application Profile specification. Specification is available on [https://techlib.github.io/CCMM-archive/1.0.1/cs/]([https://techlib.github.io/CCMM-archive/1.0.1/cs/).
 
 ## en
 
-Directory /en contains English version of CCMM Application Profile specification. Specification is available on [https://techlib.github.io/CCMM/en/](https://techlib.github.io/CCMM/en/).
+Directory /en contains English version of CCMM Application Profile specification. Specification is available on [[https://techlib.github.io/CCMM-archive/1.0.1/en/]([https://techlib.github.io/CCMM-archive/1.0.1/en/).
 
 ## XSD representation
 
@@ -25,13 +25,13 @@ Each subdirectory contains structured models formalized in XSD (schema.xsd). The
 
 |Root element|XSD schema|
 | - | - | 
-|Dataset|[https://techlib.github.io/CCMM/dataset/schema.xsd](https://techlib.github.io/CCMM/dataset/schema.xsd)|
+|Dataset|[https://techlib.github.io/CCMM-archive/1.0.1/dataset/schema.xsd](https://techlib.github.io/CCMM-archive/1.0.1/dataset/schema.xsd)|
 
 ## Sample XML
 
-On [this link](https://github.com/techlib/CCMM/blob/main/ccmm_sample.xml) is located sample XML representation of CCMM metadata. Sample refers to made up air quality data with links and relation to existing resources, introducing most of the usecases that users may encounter.
+On [this link](https://github.com/techlib/CCMM-archive/1.0.1/blob/main/ccmm_sample.xml) is located sample XML representation of CCMM metadata. Sample refers to made up air quality data with links and relation to existing resources, introducing most of the usecases that users may encounter.
 
 ## Dataspecer project
 
-[Project to open in DataSpecer](https://github.com/techlib/CCMM/blob/main/Czech%20Core%20Metadata%20Model-backup.zip) is also part of the repository. You may import it into your instance of Dataspecer.
+[Project to open in DataSpecer](https://github.com/techlib/CCMM-archive/1.0.1/blob/main/Czech%20Core%20Metadata%20Model-backup.zip) is also part of the repository. You may import it into your instance of Dataspecer.
 

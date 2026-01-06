@@ -29,9 +29,9 @@ Each subdirectory contains structured models formalized in XSD (schema.xsd). The
 
 ## Sample XML
 
-On [this link](https://github.com/techlib/CCMM-archive/1.0.1/blob/main/ccmm_sample.xml) is located sample XML representation of CCMM metadata. Sample refers to made up air quality data with links and relation to existing resources, introducing most of the usecases that users may encounter.
+On [this link](https://github.com/techlib/CCMM-archive/blob/main/1.0.1/ccmm_sample.xml) is located sample XML representation of CCMM metadata. Sample refers to made up air quality data with links and relation to existing resources, introducing most of the usecases that users may encounter.
 
 ## Dataspecer project
 
-[Project to open in DataSpecer](https://github.com/techlib/CCMM-archive/1.0.1/blob/main/Czech%20Core%20Metadata%20Model-backup.zip) is also part of the repository. You may import it into your instance of Dataspecer.
+[Project to open in DataSpecer](https://github.com/techlib/CCMM-archive/blob/main/1.0.1/Czech%20Core%20Metadata%20Model-backup.zip) is also part of the repository. You may import it into your instance of Dataspecer.
 

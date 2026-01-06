@@ -11,11 +11,11 @@ The CCMM model is licensed under [CC BY](https://creativecommons.org/licenses/by
 
 ## cs
 
-Directory /cs contains Czech version of CCMM Application Profile specification. Specification is available on [https://techlib.github.io/CCMM-archive/1.0.1/cs/]([https://techlib.github.io/CCMM-archive/1.0.1/cs/).
+Directory /cs contains Czech version of CCMM Application Profile specification. Specification is available on [this link](https://techlib.github.io/CCMM-archive/1.0.1/cs/).
 
 ## en
 
-Directory /en contains English version of CCMM Application Profile specification. Specification is available on [[https://techlib.github.io/CCMM-archive/1.0.1/en/]([https://techlib.github.io/CCMM-archive/1.0.1/en/).
+Directory /en contains English version of CCMM Application Profile specification. Specification is available on [this link](https://techlib.github.io/CCMM-archive/1.0.1/en/).
 
 ## XSD representation
 
